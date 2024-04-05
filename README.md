@@ -219,7 +219,7 @@
 ### Main Ideas:
 - Classes should be small, focused, and have a
 
- single responsibility.
+ single responsibility, following the SOLID principles.
 - Techniques for designing flexible, maintainable, and reusable classes.
 - The importance of adhering to the open-closed principle and minimizing coupling.
 
